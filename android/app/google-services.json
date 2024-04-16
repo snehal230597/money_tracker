@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "998868481355",
+    "project_id": "moneytracker-26175",
+    "storage_bucket": "moneytracker-26175.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998868481355:android:9528813184003e8088a4ce",
+        "android_client_info": {
+          "package_name": "com.practical.example.money_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998868481355-d4usbbj1885jhp2vch0a1kj675njj25r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.practical.example.money_tracker",
+            "certificate_hash": "5347fef435bf2e01d1e0c6dc33b443cb339a8202"
+          }
+        },
+        {
+          "client_id": "998868481355-38aqcad1jg7n5rq72t1lekmblcotcilk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0PEIvGQ0ZVg1PlFUkM-EiXfVWNexOIxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998868481355-38aqcad1jg7n5rq72t1lekmblcotcilk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
