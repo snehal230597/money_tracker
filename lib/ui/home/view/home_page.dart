@@ -284,8 +284,8 @@ class HomePage extends GetView<HomeController> {
               height: 40.h,
               fontWeight: AppFontWeight.bold,
               onClick: () {
-             
-              },
+
+              },//
               borderRadius: 10.r,
             ),
             const Spacer(),
